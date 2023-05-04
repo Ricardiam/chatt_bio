@@ -14,7 +14,7 @@ Bot para WhatsApp Web usando sulla y keyv para manejo de sesiones.
 
 ## Ejecutar
 
-`yarn start`
+`yarn start` f
 
 En un celular con WhatsApp hay que scanear el código generado en la terminal.
 
